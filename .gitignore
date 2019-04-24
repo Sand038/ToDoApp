@@ -29,3 +29,12 @@ target/
 *.ini
 [Tt]humbs.db
 *.DS_Store
+
+
+logs/*
+!.gitkeep
+node_modules/
+app/lib/
+tmp
+.DS_Store
+.idea
